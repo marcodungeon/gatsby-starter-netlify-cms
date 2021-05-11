@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Rifugio A. Tissi
+image: /img/tissi-fiori.jpg
+heading: Rifugio A. Tissi
+subheading: Alleghe-Civetta mt.2252
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Apertura/opening
+  description: |-
+    Il rifugio riaprirà a Giugno 2021
+    (Opening  June 2021) ---
+    IL BIVACCO INVERNALE NON E’ AGIBILE PER REGOLE COVID-19  - - - 
+    Grazie a tutti per essere passati al Rifugio Tissi. 
+    Ci vediamo a Giugno.
+description: "“Il mio zaino non è solo carico di materiali e di viveri: dentro
+  ci sono la mia educazione, i miei affetti, i miei ricordi, il mio carattere,
+  la mia solitudine. In montagna non porto il meglio di me stesso: porto me
+  stesso, nel bene e nel male.”"
 intro:
   blurbs:
     - image: /img/coffee.png
